@@ -1,0 +1,12 @@
+infix dictionary  {
+	int DIGYR 102-105 
+	str2 STATEOCC 21-22 
+	str3 CONTYOCC 23-25
+	int DEATHMO 65-66
+	str1 SEX 69 
+	str4 AGEDET 70-73
+	int AGEREC12 79-80
+	int RACE_DET 445-446
+	str4 ICD10 146-149
+	str3 ICD39 160-161
+}

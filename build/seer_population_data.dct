@@ -1,0 +1,13 @@
+infix dictionary  {
+int year  1-4
+str2 state_postal  5-6
+int statefip 7-8
+int countyfip 9-11
+int registry 12-13
+int race 14
+int origin 15
+int sex 16
+int age 17-18
+double population 19-26
+}
+
